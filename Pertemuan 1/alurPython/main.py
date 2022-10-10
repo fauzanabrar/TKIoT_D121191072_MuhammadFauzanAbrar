@@ -10,9 +10,11 @@ print("hello world")
 """
 
 print("test")
-a = 10
+
+a   = 10
 print(a)
-b = a + 5
+
+b   = a + 5
 print(b)
 
 # bytecode adalah compile python
